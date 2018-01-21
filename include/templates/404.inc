@@ -1,0 +1,13 @@
+R"(
+<html>
+<head>
+    <title>404 Not Found</title>
+</head>
+<body>
+    <h1>Not Found</h1>
+    <p>The requested URL is not found on this server.</p>
+    <hr>
+    <address>Porgi</address>
+</body>
+</html>
+)"

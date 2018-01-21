@@ -1,0 +1,9 @@
+[submodule "3rdparty/easyloggingpp"]
+	path = 3rdparty/easyloggingpp
+	url = https://github.com/muflihun/easyloggingpp.git
+[submodule "3rdparty/ctpl"]
+	path = 3rdparty/ctpl
+	url = https://github.com/vit-vit/CTPL.git
+[submodule "3rdparty/cxxopts"]
+	path = 3rdparty/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
