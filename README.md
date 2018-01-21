@@ -1,9 +1,9 @@
 # Porgi
--------
+
 Porgi is a lightweight web server written in C++ with a Python interface.
 
 ## Requirements
----------------
+
 Porgi can only be built on Linux 2.6+. To build Porgi, these components are required:
  * Python 3
  * Boost.Python
@@ -18,7 +18,7 @@ apt-get install cmake libboost-python-dev python3 python3-dev
 ```
 
 ## Compile Porgi
-----------------
+
 ```
 git submodule init
 git submodule update
@@ -27,6 +27,7 @@ cmake .. && make
 ```
 
 ## Usage
+
 Porgi is very easy to use. A Python script is needed to tell Porgi how the requests should be handled.
 ```python
 @porgi.route('/hello') # specify what URL pattern this handler is responsible for
